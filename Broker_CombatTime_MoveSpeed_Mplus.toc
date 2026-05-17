@@ -1,0 +1,12 @@
+## Interface: 120005
+## Title: Broker_CombatTime_MoveSpeed_Mplus
+## Version: 1.1.0
+## Author: Sebastian Muskalla
+## Notes: Shows time in combat / current movement speed / current Mythic plus key level.
+## SavedVariables: BrokerCombatTimeMoveSpeedMplus
+
+libs/LibStub.lua
+libs/CallbackHandler-1.0.lua
+libs/LibDataBroker-1.1.lua
+
+Broker_CombatTime_MoveSpeed_Mplus.lua
